@@ -1,6 +1,6 @@
 # Neural Network From Scratch
 
-Created a simply one layered neural network from scratch. Then comparing its performance relative to tensorflow's.
+Created a simple one layered neural network from scratch. Then comparing its performance relative to tensorflow's.
 
 ## Gradient Descent Algorithm
 
